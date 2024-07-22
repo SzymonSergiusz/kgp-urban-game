@@ -1,6 +1,6 @@
 [submodule "backend-server"]
-	path = psiim-server
+	path = backend-server
 	url = https://github.com/SzymonSergiusz/psiim-server.git
 [submodule "frontend-webapp"]
-	path = psiim-strona
+	path = frontend-webapp
 	url = https://github.com/SzymonSergiusz/psiim-strona.git
